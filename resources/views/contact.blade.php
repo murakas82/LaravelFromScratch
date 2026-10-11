@@ -1,20 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Document</title>
-</head>
-<body>
-<h1>Contact</h1>
-<h2>
-    <a href="mina@mina.ee">E-mail</a>
-</h2>
-
-<div>
-
-    <a href="/">Return Home</a>
-</div>
-
-</body>
-</html>
+<x-layout title="Contact">
+    <h1>Contact</h1>
+      <x-card class="max-w-400">
+        <p>Placeholder for the contact form</p>
+    </x-card>
+</x-layout>
